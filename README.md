@@ -15,6 +15,9 @@ You can write TypeScript for both **front-end (browser)** and **back-end (server
 - [TS is a superset of JS](#ts-is-a-superset-of-js)
 - [References](#references)
 
+## Workshops
+- [TS is a superset of JS](./workshops/ts-js-superset/)
+
 ### TS is a superset of JS 
 
 ![](./img/ts_superset.png)
