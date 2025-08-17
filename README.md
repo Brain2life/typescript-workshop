@@ -20,6 +20,7 @@ You can write TypeScript for both **front-end (browser)** and **back-end (server
 - [Environment setup for TS projects](./workshops/env-setup/)
 - [TS is a superset of JS](./workshops/ts-js-superset/)
 - [FreeCodeCamp TS tutorial workshop files](./workshops/freecodecamp-ts/)
+- [Object-Oriented Programming in TS](./workshops/oop/)
 
 ### TS is a superset of JS 
 
